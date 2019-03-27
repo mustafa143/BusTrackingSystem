@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        System.out.print("Bus Tracking System!");
+        System.out.print("Bus Tracking System! is our final year project.");
     }
 }
